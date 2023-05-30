@@ -1,7 +1,6 @@
-# Project Title
+# Take your hand off
 [English](README.md) | [Türkçe](README_TR.md)
 
-[Rest of the README content in English]
 This project is aimed at helping individuals break the habit of pulling their beard or touching their face, which can lead to headaches. The project utilizes computer vision techniques to detect hand movements near the face and trigger a notification sound as a reminder.
 
 ## Features
