@@ -12,7 +12,7 @@ def main():
     hands = mp_hands.Hands()
     
     if not cap.isOpened():
-        print("Kamera açılamadı!")
+        print("Camera didn't open!")
         return
     
     threading.Thread(target=start_camera, args=(cap, hands)).start()
